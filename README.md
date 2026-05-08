@@ -1,7 +1,8 @@
 # Sales Performance Analysis 
 
 ## Project Overview
-This project analyzes a superstore sales data to uncover trends, profitability issues, and business opportunities using Python and Power BI.
+This project analyzes a superstore sales data to uncover trends, profitability issues, and business opportunities using Python and Power BI
+
 ## Tools Used
 - Python (Pandas, Matplotlib)
 - Power BI
@@ -35,4 +36,4 @@ This project analyzes a superstore sales data to uncover trends, profitability i
 - Dashboard PDF
 
 ## Dashboard Preview
-
+![Dashboard Screenshot](Sales_performance_dashboard.png)
